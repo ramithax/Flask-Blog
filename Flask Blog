@@ -1,0 +1,1 @@
+Flask Blog is a web-based blogging application built using the Flask framework for the backend and HTML with Bootstrap for the frontend. It allows users to create, edit, and manage blog posts through a clean and responsive interface.
